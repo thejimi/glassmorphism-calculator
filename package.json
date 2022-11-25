@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "electron": "^21.2.3"
+  },
+  "scripts": {
+    "start": "electron --enable-transparent-visuals ."
+  }
+}
